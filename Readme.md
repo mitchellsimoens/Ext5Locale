@@ -1,4 +1,4 @@
-# This is a proof of concept app that displays simple automatic locale based on teh string provided to components.
+# This is a proof of concept app that displays simple automatic locale based on the string provided to components.
 
 I have not tested performance nor have I thought of other user's use cases. This was a thought I had, am using this in a new Ext 5 app and is working quite well for me.
 
